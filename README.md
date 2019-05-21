@@ -7,11 +7,11 @@ This is project from Udemy by Stephen Grider.
     - Sources = Display Capture & Audio Input Capture
     - Settings -> Stream = Service = Custom... & Server = rtmp://localhost/live & Stream Key = 1
     
-2. in folder client run command line: `npm start`
+2. in folder **client** run command line: `npm start`
 
-3. in folder api run command line: `npm start`
+3. in folder **api** run command line: `npm start`
 
-4. in folder rtmpserver run command line: `npm start`
+4. in folder **rtmpserver** run command line: `npm start`
 
 5. in your browser localhost:3000 create 1 stream 
 
