@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is the best stream!",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "Some description about my stream.",
+      "id": 2
+    },
+    {
+      "title": "My stream2",
+      "description": "Some description about my stream2.",
+      "id": 3
+    },
+    {
+      "title": "I created this Stream2",
+      "description": "It was created by my22",
+      "id": 4
+    },
+    {
+      "title": "I created this Stream",
+      "description": "It was created by my",
+      "userId": "100729482588358859483",
+      "id": 5
+    },
+    {
+      "title": "New stream56",
+      "description": "Aha to je muj novy stream",
+      "userId": "100729482588358859483",
+      "id": 6
+    }
+  ]
+}
