@@ -3,7 +3,7 @@
 This is project from Udemy by Stephen Grider.
 
 1. install OBS https://obsproject.com/
-    - Scenes = Streaming scebe
+    - Scenes = Streaming scene
     - Sources = Display Capture & Audio Input Capture
     - Settings -> Stream = Service = Custom... & Server = rtmp://localhost/live & Stream Key = 1
     
